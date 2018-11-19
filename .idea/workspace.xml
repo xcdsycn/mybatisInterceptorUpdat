@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0299d10b-149f-44f2-b8d5-7557cfb748d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lxh/mybatis/interceptor/NewsInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/code-comments.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/libraries/Maven__org_apache_maven_surefire_common_java5_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/libraries/Maven__org_apache_maven_surefire_common_junit3_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/libraries/Maven__org_apache_maven_surefire_common_junit4_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/libraries/Maven__org_apache_maven_surefire_surefire_api_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/lxh-desgin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/classloader/MyClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/classloader/TestMyClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/classloader/test/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/classloader/test/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/design/filter/AuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/design/filter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/design/filter/DebugFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/design/filter/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/design/filter/FilterChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/design/filter/FilterManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/design/filter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/design/filter/main/InterceptingFilterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/ext/AbstractA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/ext/Aimpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/ext/InterfA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/lamda/OlderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/lamda/ReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/stream/Exmaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/thread/delayedqueue/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/thread/delayedqueue/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/thread/delayedqueue/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/thread/philosopher/Chopsticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/thread/philosopher/PhilosopherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/thread/philosopher/PhilosopherThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/main/java/com/lxh/thread/readwrite/SimpleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/src/test/java/com/lxh/lamda/ReferenceTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/classloader/MyClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/classloader/TestMyClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/classloader/test/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/classloader/test/Red.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/design/filter/AuthenticationFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/design/filter/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/design/filter/DebugFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/design/filter/Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/design/filter/FilterChain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/design/filter/FilterManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/design/filter/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/design/filter/main/InterceptingFilterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/ext/AbstractA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/ext/Aimpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/ext/InterfA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/lamda/OlderService$Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/lamda/OlderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/lamda/ReferenceTest$Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/lamda/ReferenceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/stream/Exmaple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/delayedqueue/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/delayedqueue/DelayedElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/delayedqueue/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/delayedqueue/QueueMain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/delayedqueue/QueueMain$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/delayedqueue/QueueMain$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/delayedqueue/QueueMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/philosopher/Chopsticks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/philosopher/PhilosopherTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/philosopher/PhilosopherThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/readwrite/SimpleExample$Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/readwrite/SimpleExample$Writer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/classes/com/lxh/thread/readwrite/SimpleExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../self/lxh-desgin/target/test-classes/com/lxh/lamda/ReferenceTestTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yw/bkmerchantdemo/src/xml/ant.mybank.merchantprod.merchant.unified.register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../NOTICE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.textile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-plugin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-plugin.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-service-mgr.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-service-x64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-service-x86.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-service.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-systemd-pre-exec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-translog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch-translog.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch.in.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bin/elasticsearch.in.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/discovery-ec2/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/discovery-file/unicast_hosts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/elasticsearch.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/ingest-geoip/GeoLite2-City.mmdb.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/ingest-geoip/GeoLite2-Country.mmdb.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/jvm.options" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/repository-s3/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/HdrHistogram-2.1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/elasticsearch-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/hppc-0.7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/jackson-core-2.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/jackson-dataformat-cbor-2.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/jackson-dataformat-smile-2.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/jackson-dataformat-yaml-2.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/jna-4.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/joda-time-2.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/jopt-simple-5.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/jts-1.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/log4j-1.2-api-2.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/log4j-api-2.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/log4j-core-2.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-analyzers-common-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-backward-codecs-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-core-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-grouping-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-highlighter-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-join-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-memory-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-misc-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-queries-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-queryparser-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-sandbox-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-spatial-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-spatial-extras-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-spatial3d-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/lucene-suggest-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/securesm-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/snakeyaml-1.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/spatial4j-0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lib/t-digest-3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/aggs-matrix-stats/aggs-matrix-stats-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/aggs-matrix-stats/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/ingest-common/ingest-common-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/ingest-common/jcodings-1.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/ingest-common/joni-2.1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/ingest-common/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-expression/antlr4-runtime-4.5.1-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-expression/asm-5.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-expression/asm-commons-5.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-expression/asm-tree-5.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-expression/lang-expression-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-expression/lucene-expressions-6.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-expression/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-expression/plugin-security.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-groovy/groovy-2.4.6-indy.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-groovy/lang-groovy-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-groovy/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-groovy/plugin-security.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-mustache/compiler-0.9.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-mustache/lang-mustache-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-mustache/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-mustache/plugin-security.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-painless/antlr4-runtime-4.5.1-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-painless/asm-debug-all-5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-painless/lang-painless-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-painless/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/lang-painless/plugin-security.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/percolator/percolator-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/percolator/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/commons-codec-1.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/httpasyncclient-4.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/httpclient-4.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/httpcore-4.4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/httpcore-nio-4.4.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/reindex-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/reindex/rest-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty3/netty-3.10.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty3/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty3/plugin-security.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty3/transport-netty3-5.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/netty-buffer-4.1.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/netty-codec-4.1.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/netty-codec-http-4.1.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/netty-common-4.1.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/netty-handler-4.1.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/netty-resolver-4.1.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/netty-transport-4.1.6.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/plugin-descriptor.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/plugin-security.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../modules/transport-netty4/transport-netty4-5.1.1.jar" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="251782817">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="23" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="23" />
+          <entry key="SQL" value="2" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lxh/mybatis/interceptor/NewsInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lxh/mybatis/interceptor/ExecutorUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-414">
+              <caret line="232" column="12" selection-start-line="232" selection-start-column="12" selection-end-line="232" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#854#869#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lxh/mybatis/interceptor/NewsInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lxh/mybatis/interceptor/ExecutorUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lxh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lxh" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lxh" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lxh-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lxh-mybatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/lxh/mybatis/interceptor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0299d10b-149f-44f2-b8d5-7557cfb748d3" name="Default Changelist" comment="" />
+      <created>1542598159310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542598159310</updated>
+      <workItem from="1542598163590" duration="1420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1420000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1595">
+          <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxh/mybatis/interceptor/NewsInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lxh/mybatis/interceptor/ExecutorUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="232" column="12" selection-start-line="232" selection-start-column="12" selection-end-line="232" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#854#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
